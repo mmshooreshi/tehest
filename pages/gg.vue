@@ -93,7 +93,7 @@
   .cube {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 70%;
     transform-style: preserve-3d;
     transform: translate(-50%, -50%);
     width: 200px;
